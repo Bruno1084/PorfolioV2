@@ -1,7 +1,7 @@
 import React from "react";
 import {BrowserRouter, Route, Routes } from 'react-router-dom';
 import Header from "./components/header/Header.jsx";
-import About from "./pages/about/About.jsx";
+import About from "./pages/about/About.jsx"
 import Proyects from "./pages/proyects/Proyects";
 import global_en from "./languages/en/translation.json";
 import global_es from "./languages/es/translation.json";
