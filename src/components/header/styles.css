@@ -22,7 +22,7 @@ header{
   justify-content: center;
   line-height: 24px;
   max-width: 100%;
-  padding: 0 25px;
+  padding: 0 40px;
   position: relative;
   text-align: center;
   text-decoration: none;
@@ -59,8 +59,8 @@ header{
   outline: 0;
 }
 
-@media (min-width: 768px) {
-  .button-56 {
-    padding: 0 40px;
+@media (max-width: 768px) {
+  header{
+    width: 100%;
   }
 }

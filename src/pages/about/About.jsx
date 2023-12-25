@@ -15,7 +15,7 @@ export default function About(){
         <Age />
       </div>
 
-      <a href="https://github.com/Bruno1084" className="bento-box bento-3 bento-link">
+      <a href="https://github.com/Bruno1084" target="_blank" className="bento-box bento-3 bento-link">
         <Github />
       </a>
 
