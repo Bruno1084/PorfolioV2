@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "Proyect-name": "El Buho Web",
+    "Proyect-link": "",
+    "Proyect-repository": "https://github.com/Bruno1084/El-Buho-Web.github.io",
+    "Proyect-cover": "./proyect-covers/ElBuho-Web-Cover.png",
+    "Proyect-technologies": ["HTML", "CSS", "Javascript", "Boostrap"]
+  },
+  {
+    "id": 2,
+    "Proyect-name": "Concesionaria",
+    "Proyect-link": "",
+    "Proyect-repository": "",
+    "Proyect-cover": "",
+    "Proyect-technologies": ["Java", "Swing"]
+  },
+  {
+    "id": 3,
+    "Proyect-name": "Platzi Travel",
+    "Proyect-link": "",
+    "Proyect-repository": "https://github.com/Bruno1084/PlatziTravel.github.io",
+    "Proyect-cover": "",
+    "Proyect-technologies": ["HTML", "CSS", "Javascript", "Tailwindcss"]
+  },
+  {
+    "id": 4,
+    "Proyect-name": "Personal Portfolio",
+    "Proyect-link": "",
+    "Proyect-repository": "",
+    "Proyect-cover": "",
+    "Proyect-technologies": ["HTML", "CSS", "Javascript", "React"]
+  }  
+]

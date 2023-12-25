@@ -1,0 +1,23 @@
+.proyects--container{
+  margin: 2rem auto;
+  padding: 0 10px;
+  max-width: 964px;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 16px;
+}
+
+.proyect-box{
+  background-color: whitesmoke;
+  border: 1px dashed white;
+  height: 20rem;
+  border-radius: 8px;
+}
+
+
+@media only screen and (max-width: 750px) {
+  .proyects--container{
+    grid-template-columns: auto;
+    max-width: 600px;
+  }
+}

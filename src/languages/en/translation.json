@@ -1,0 +1,13 @@
+{  
+  "Header":{
+    "About": "About",
+    "Proyects": "Proyects"
+  },
+  "Presentation": {
+    "Tittle": "I'm Bruno 👋",
+    "Description": "Always passionate to try new technologies and learn from others. Right now my next goal is to gain experience in order to make me a better professional."
+  },
+  "Age": ["Age", "Years Old"],
+  "Certificate": ["English", "Skills"],
+  "Contact": "CONTACT ME"
+}

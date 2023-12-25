@@ -1,0 +1,13 @@
+{
+  "Header":{
+    "About": "Sobre Mi",
+    "Proyects": "Proyectos"
+  },
+  "Presentation":{
+    "Tittle": "Soy Bruno 👋",
+    "Description": "Siempre apasionado por probar nuevas tecnologías y aprender de otros. Ahora mismo mi meta es ganar experiencia para convertirme en un mejor profesional."
+  },
+  "Age": ["Edad", "Años"],
+  "Certificate": ["Inglés", "Habilidad"],
+  "Contact": "CONTÁCTAME"
+}
