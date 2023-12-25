@@ -1,5 +1,5 @@
 import React from "react";
-import { Age, Contact, English, Github, Hour, Introduction, LinkedIn, MapCanvas, Stack, ChangeLanguage } from "../../components/Bentos/index"
+import { Age, Contact, English, Github, Hour, Introduction, LinkedIn, MapCanvas, Stack, ChangeLanguage } from "../../components/bentos/index"
 import "./styles.css";
 
 
