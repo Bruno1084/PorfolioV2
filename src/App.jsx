@@ -24,9 +24,9 @@ function App() {
   return (
     <>
     <I18nextProvider i18n={i18next}>
-      <Header />
       <BrowserRouter>
-        <Routes path="/about" index>
+        <Header />
+        <Routes path="/" index>
           <Route path="/" element={<About />} />
           <Route path="/proyects" element={<Proyects />} />
         </Routes>
