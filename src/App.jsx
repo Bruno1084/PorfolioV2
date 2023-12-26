@@ -1,6 +1,5 @@
 import React from "react";
 import {BrowserRouter, Route, Routes } from 'react-router-dom';
-import Header from "./components/header/Header.jsx";
 import About from "./pages/about/About.jsx"
 import Proyects from "./pages/proyects/Proyects";
 import global_en from "./languages/en/translation.json";
@@ -25,7 +24,6 @@ function App() {
     <>
     <I18nextProvider i18n={i18next}>
       <BrowserRouter>
-        <Header />
         <Routes path="/" index>
           <Route path="/" element={<About />} />
           <Route path="/proyects" element={<Proyects />} />
