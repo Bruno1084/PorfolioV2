@@ -22,6 +22,7 @@ function App() {
 
   return (
     <>
+    <div className="noise"></div>
     <I18nextProvider i18n={i18next}>
       <BrowserRouter>
         <Routes path="/" index>
