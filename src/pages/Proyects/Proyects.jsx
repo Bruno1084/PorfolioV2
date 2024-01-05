@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../../components/header/Header";
+import ProyectBox from "../../components/proyects/ProyectBox";
 import "./styles.css";
 
 export default function Proyects(){
@@ -9,18 +10,11 @@ export default function Proyects(){
       <Header />
       
       <section className="proyects--container">
-        <div className="proyect-box">
-          <a href="#">El Buho Web</a>
-        </div>
-        <div className="proyect-box">
-          <a href="#">Platzi Travel</a>
-        </div>
-        <div className="proyect-box">
-          <a href="#">Concesionaria</a>
-        </div>
-        <div className="proyect-box">
-          <a href="#">Porfolio</a>
-        </div>
+        <ProyectBox />
+        <ProyectBox />
+        <ProyectBox />
+        <ProyectBox />
+      
       </section>
     </>
   );

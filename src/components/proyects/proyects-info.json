@@ -5,7 +5,7 @@
     "Proyect-link": "",
     "Proyect-repository": "https://github.com/Bruno1084/El-Buho-Web.github.io",
     "Proyect-cover": "./proyect-covers/ElBuho-Web-Cover.png",
-    "Proyect-technologies": ["HTML", "CSS", "Javascript", "Boostrap"]
+    "Proyect-technologies": ["Boostrap"]
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "Proyect-link": "",
     "Proyect-repository": "https://github.com/Bruno1084/PlatziTravel.github.io",
     "Proyect-cover": "",
-    "Proyect-technologies": ["HTML", "CSS", "Javascript", "Tailwindcss"]
+    "Proyect-technologies": ["Tailwindcss"]
   },
   {
     "id": 4,
@@ -29,6 +29,7 @@
     "Proyect-link": "",
     "Proyect-repository": "",
     "Proyect-cover": "",
+<<<<<<< HEAD
     "Proyect-technologies": ["HTML", "CSS", "Javascript", "React"]
   },
   {
@@ -39,4 +40,8 @@
     "Proyect-cover": "./public/proyect-covers/DungeonJs-Cover",
     "Proyect-technologies": ["HTML", "CSS", "Javascript", "ExcaliburJs"]
   }
+=======
+    "Proyect-technologies": ["React"]
+  }  
+>>>>>>> testing
 ]
