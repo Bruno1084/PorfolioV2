@@ -30,5 +30,13 @@
     "Proyect-repository": "",
     "Proyect-cover": "",
     "Proyect-technologies": ["HTML", "CSS", "Javascript", "React"]
-  }  
+  },
+  {
+    "id": 5,
+    "Proyect-name": "Dungeon Js",
+    "Proyect-link": "",
+    "Proyect-repository": "https://github.com/Bruno1084/DungeonJsTest.git",
+    "Proyect-cover": "./public/proyect-covers/DungeonJs-Cover",
+    "Proyect-technologies": ["HTML", "CSS", "Javascript", "ExcaliburJs"]
+  }
 ]
