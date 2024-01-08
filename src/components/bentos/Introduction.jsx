@@ -9,6 +9,10 @@ export default function Introduction() {
     <div className="bento-introduction">
       <h1>{t('Presentation.Tittle')}</h1>
       <p>{t('Presentation.Description')}</p>
+      <h3>{t('Education.Tittle')}</h3>
+      {t('Education.Description', { returnObjects: true }).map((item, index) => (
+        <p key={index}>{item}</p>
+      ))}
     </div>
   );
 }

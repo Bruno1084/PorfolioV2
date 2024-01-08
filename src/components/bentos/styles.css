@@ -12,6 +12,10 @@
   letter-spacing: 2px;
 }
 
+.bento-introduction h3{
+  margin: 10px 0;
+}
+
 
 /* Bento Age */
 .bento-age{

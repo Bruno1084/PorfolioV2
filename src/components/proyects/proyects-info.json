@@ -25,23 +25,18 @@
   },
   {
     "id": 4,
-    "Proyect-name": "Personal Portfolio",
-    "Proyect-link": "",
-    "Proyect-repository": "",
-    "Proyect-cover": "",
-<<<<<<< HEAD
-    "Proyect-technologies": ["HTML", "CSS", "Javascript", "React"]
+    "Proyect-name": "Portfolio",
+    "Proyect-link": "https://porfolio-v2.vercel.app/",
+    "Proyect-repository": "https://github.com/Bruno1084/PorfolioV2",
+    "Proyect-cover": "./proyect-covers/Portfolio-Cover.png",
+    "Proyect-technologies": ["React"]
   },
   {
     "id": 5,
-    "Proyect-name": "Dungeon Js",
+    "Proyect-name": "DungeonJs",
     "Proyect-link": "",
-    "Proyect-repository": "https://github.com/Bruno1084/DungeonJsTest.git",
-    "Proyect-cover": "./public/proyect-covers/DungeonJs-Cover",
-    "Proyect-technologies": ["HTML", "CSS", "Javascript", "ExcaliburJs"]
+    "Proyect-repository": "https://github.com/Bruno1084/DungeonJsTest",
+    "Proyect-cover": "./proyect-covers/DungeonJs-Cover.png",
+    "Proyect-technologies": ["Javascript", "ExcaliburJs"]
   }
-=======
-    "Proyect-technologies": ["React"]
-  }  
->>>>>>> testing
 ]

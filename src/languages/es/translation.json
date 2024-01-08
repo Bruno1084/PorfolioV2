@@ -1,13 +1,23 @@
 {
-  "Header":{
+  "Header": {
     "About": "Sobre Mi",
     "Proyects": "Proyectos"
   },
-  "Presentation":{
+  "Presentation": {
     "Tittle": "Soy Bruno 👋",
     "Description": "Siempre apasionado por probar nuevas tecnologías y aprender de otros. Ahora mismo mi meta es ganar experiencia para convertirme en un mejor profesional."
   },
-  "Age": ["Edad", "Años"],
-  "Certificate": ["Inglés", "Habilidad"],
+  "Education": {
+    "Tittle": "Educación 🎓",
+    "Description": ["UNSL - Tecnico en Web", "Platzi - Cursos", "Autodidacta"]    
+  },
+  "Age": [
+    "Edad",
+    "Años"
+  ],
+  "Certificate": [
+    "Inglés",
+    "Habilidad"
+  ],
   "Contact": "CONTÁCTAME"
 }

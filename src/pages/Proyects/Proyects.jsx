@@ -10,11 +10,7 @@ export default function Proyects(){
       <Header />
       
       <section className="proyects--container">
-        <ProyectBox />
-        <ProyectBox />
-        <ProyectBox />
-        <ProyectBox />
-      
+
       </section>
     </>
   );
