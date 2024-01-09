@@ -11,6 +11,7 @@ export default function Proyects(){
       
       <section className="proyects--container">
 
+        <ProyectBox />
       </section>
     </>
   );

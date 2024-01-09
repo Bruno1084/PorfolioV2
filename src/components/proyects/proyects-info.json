@@ -12,7 +12,7 @@
     "Proyect-name": "Concesionaria",
     "Proyect-link": "",
     "Proyect-repository": "",
-    "Proyect-cover": "",
+    "Proyect-cover": "./proyect-covers/Concesionaria-Cover.png",
     "Proyect-technologies": ["Java", "Swing"]
   },
   {
@@ -20,7 +20,7 @@
     "Proyect-name": "Platzi Travel",
     "Proyect-link": "",
     "Proyect-repository": "https://github.com/Bruno1084/PlatziTravel.github.io",
-    "Proyect-cover": "",
+    "Proyect-cover": "./proyect-covers/PlatziTravel-Cover.png",
     "Proyect-technologies": ["Tailwindcss"]
   },
   {
