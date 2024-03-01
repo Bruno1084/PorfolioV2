@@ -7,7 +7,7 @@
   background-color: whitesmoke;
 }
 
-.image {
+.proyect-cover {
   height: 100%;
   width: 100%;
 }
@@ -27,10 +27,10 @@
 }
 
 .proyect-box:hover .overlay {
-  height: 70%;
+  height: 85%;
 }
 
-.text {
+.proyect-tittle{
   font-size: 20px;
   padding: 8px;
 }

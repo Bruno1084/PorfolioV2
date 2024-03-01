@@ -5,6 +5,7 @@
     "Proyect-link": "",
     "Proyect-repository": "https://github.com/Bruno1084/El-Buho-Web.github.io",
     "Proyect-cover": "./proyect-covers/ElBuho-Web-Cover.png",
+    "Proyect-description": "Example of ecomerse of the store 'El Buho' presented as a proyect to university. In this work of 3 people I was in charge of organizate the work, desinging and most of the programming of the web. I would like to improve it more.",
     "Proyect-technologies": ["Boostrap"]
   },
   {
@@ -13,6 +14,7 @@
     "Proyect-link": "",
     "Proyect-repository": "",
     "Proyect-cover": "./proyect-covers/Concesionaria-Cover.png",
+    "Proyect-description": "This is a test of an aplication for University in Java.",
     "Proyect-technologies": ["Java", "Swing"]
   },
   {
@@ -21,6 +23,7 @@
     "Proyect-link": "",
     "Proyect-repository": "https://github.com/Bruno1084/PlatziTravel.github.io",
     "Proyect-cover": "./proyect-covers/PlatziTravel-Cover.png",
+    "Proyect-description": "Static page to practice tailwindcss from the course 'Tailwindcss 2 and 3' from Platzi. I make this replica withouw looking the original code, plus I added somethings on script side.",
     "Proyect-technologies": ["Tailwindcss"]
   },
   {
@@ -29,6 +32,7 @@
     "Proyect-link": "https://porfolio-v2.vercel.app/",
     "Proyect-repository": "https://github.com/Bruno1084/PorfolioV2",
     "Proyect-cover": "./proyect-covers/Portfolio-Cover.png",
+    "Proyect-description": "My personal portfolio, it went to a lot of changes on desing and libraries used since the first sketch that I did.",
     "Proyect-technologies": ["React"]
   },
   {
@@ -37,6 +41,7 @@
     "Proyect-link": "",
     "Proyect-repository": "https://github.com/Bruno1084/DungeonJsTest",
     "Proyect-cover": "./proyect-covers/DungeonJs-Cover.png",
+    "Proyect-description": "This is a small game inspired in 'Dungeon Cards' and the genre Dungeon Crawler. I'm not a game dev so this is a long term proyect that I exited from improve and complete.",
     "Proyect-technologies": ["Javascript", "ExcaliburJs"]
   }
 ]
