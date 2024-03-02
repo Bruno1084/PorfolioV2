@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/header/Header";
-import ProyectBox from "../../components/proyects/ProyectBox";
+import ProjectBox from "../../components/projects/ProjectBox";
 import "./styles.css";
 
 export default function Projects(){
@@ -10,8 +10,7 @@ export default function Projects(){
       <Header />
       
       <section className="projects--container">
-
-        <ProyectBox />
+        <ProjectBox />
       </section>
     </>
   );

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Project-name": "El Buho Web",
+    "Project-link": "",
+    "Project-repository": "https://github.com/Bruno1084/El-Buho-Web.github.io",
+    "Project-cover": "./project-covers/ElBuho-Web-Cover.png",
+    "Project-description": "Example of ecomerse of the store 'El Buho' presented as a proyect to university. In this work of 3 people I was in charge of organizate the work, desinging and most of the programming of the web. I would like to improve it more.",
+    "Project-technologies": ["Boostrap"]
+  },
+  {
+    "id": 2,
+    "Project-name": "Stock Management App",
+    "Project-link": "",
+    "Project-repository": "https://github.com/Bruno1084/JavaDesktop",
+    "Project-cover": "./project-covers/StockApp-Cover.png",
+    "Project-description": "I developed this app for a small comerse. Currenly is capable of keeping track of sellings by day, month and year; products stock and costumers.",
+    "Project-technologies": ["Java", "JavaFX", "SQL"]
+  },
+  {
+    "id": 3,
+    "Project-name": "Platzi Travel",
+    "Project-link": "",
+    "Project-repository": "https://github.com/Bruno1084/PlatziTravel.github.io",
+    "Project-cover": "./project-covers/PlatziTravel-Cover.png",
+    "Project-description": "Static page to practice tailwindcss from the course 'Tailwindcss 2 and 3' from Platzi. I make this replica withouw looking the original code, plus I added somethings on script side.",
+    "Project-technologies": ["Tailwindcss"]
+  },
+  {
+    "id": 5,
+    "Project-name": "DungeonJs",
+    "Project-link": "",
+    "Project-repository": "https://github.com/Bruno1084/DungeonJsTest",
+    "Project-cover": "./project-covers/DungeonJs-Cover.png",
+    "Project-description": "This is a small game inspired in 'Dungeon Cards' and the genre Dungeon Crawler. I'm not a game dev so this is a long term proyect that I exited from improve and complete.",
+    "Project-technologies": ["Javascript", "ExcaliburJs"]
+  }
+]

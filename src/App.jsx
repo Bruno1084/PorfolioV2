@@ -27,7 +27,7 @@ function App() {
       <HashRouter>
           <Routes>
             <Route exact path="/" element={<About/>} />
-            <Route path="/proyects" element={<Projects/>} />
+            <Route path="/projects" element={<Projects/>} />
           </Routes>
       </HashRouter>
     </I18nextProvider>

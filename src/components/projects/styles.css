@@ -1,5 +1,5 @@
 
-.proyect-box {
+.project-box {
   position: relative;
   height: 20rem;
   border-radius: 8px;
@@ -7,7 +7,7 @@
   background-color: whitesmoke;
 }
 
-.proyect-cover {
+.project-cover {
   height: 100%;
   width: 100%;
 }
@@ -26,11 +26,11 @@
   transition: .5s ease;
 }
 
-.proyect-box:hover .overlay {
+.project-box:hover .overlay {
   height: 85%;
 }
 
-.proyect-tittle{
+.project-tittle{
   font-size: 20px;
   padding: 8px;
 }
@@ -48,7 +48,7 @@
   border-radius: 15px;
 }
 
-.proyect-description{
+.project-description{
   margin: 16px 8px;
 }
 

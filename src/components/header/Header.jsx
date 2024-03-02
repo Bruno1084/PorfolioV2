@@ -11,7 +11,7 @@ export default function Header(){
   return(
     <header className="header">
       <Link className="button-56" to={"/"}>{t('Header.About')}</Link>
-      <Link className="button-56" to={"proyects"}>{t('Header.Proyects')}</Link>
+      <Link className="button-56" to={"/projects"}>{t('Header.Projects')}</Link>
     </header>
   );
 }
