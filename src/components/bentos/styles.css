@@ -8,7 +8,7 @@
 }
 
 .bento-introduction h1{
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   letter-spacing: 2px;
 }
 
@@ -114,10 +114,6 @@
   font-weight: 700;
 }
 
-.bento-english span{
-  font-size: 1.6vw;
-}
-
 
 /* Bento Contact */
 .btm-displayForm{
@@ -207,6 +203,41 @@
   right: 1.2rem;
   opacity: 0.7;
 }
+
+.icon-html:hover{
+  color: #ff651e;
+  transition: 0.25s;
+}
+.icon-css:hover{
+  color: #086af4;
+  transition: 0.25s;
+}
+.icon-javascript:hover{
+  color: #f1c129;
+  transition: 0.25s;
+}
+.icon-react:hover{
+  color: #08bed5;
+  transition: 0.25s;
+}
+.icon-java:hover{
+  color: #df121e;
+  transition: 0.25s;
+}
+.icon-git:hover{
+  color: #f05539;
+  transition: 0.25s;
+}
+.icon-bootstrap:hover{
+  color: #7f18f9;
+  transition: 0.25s;
+}
+.icon-tailwind:hover{
+  color: #08b8d8;
+  transition: 0.25s;
+}
+
+
 
 @media only screen and (max-width: 750px) {
   .bento-introduction{
