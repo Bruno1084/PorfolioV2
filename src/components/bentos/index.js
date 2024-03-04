@@ -8,5 +8,6 @@ import LinkedIn from "./LinkedIn";
 import MapCanvas from "./MapCanvas";
 import Stack from "./Stack";
 import ChangeLanguage from "./ChangeLanguage";
+import CV from "./CV";
 
-export {Age, Contact, English, Github, Hour, Introduction, LinkedIn, MapCanvas, Stack, ChangeLanguage};
+export {Age, Contact, English, Github, Hour, Introduction, LinkedIn, MapCanvas, Stack, ChangeLanguage, CV};

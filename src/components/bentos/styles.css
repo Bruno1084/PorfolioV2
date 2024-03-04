@@ -114,7 +114,6 @@
   font-weight: 700;
 }
 
-
 /* Bento Contact */
 .btm-displayForm{
   font-size: 4.5vw;
@@ -128,11 +127,28 @@
   text-wrap: nowrap;
 }
 
+/* Bento CV*/
+.bento-cv{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.bento-cv p{
+  font-size: 8vw;
+  font-weight: 700;
+}
+
 
 /* Bento Change Language */
 .languageIcon{
   display: flex;
 }
+
 
 /* Button Styles*/
 .languageSwitch{

@@ -1,5 +1,5 @@
 import React from "react";
-import { Age, Contact, English, Github, Hour, Introduction, LinkedIn, MapCanvas, Stack, ChangeLanguage } from "../../components/bentos/index"
+import { Age, Contact, English, Github, Hour, Introduction, LinkedIn, MapCanvas, Stack, ChangeLanguage, CV } from "../../components/bentos/index"
 import Header from "../../components/header/Header";
 import "./styles.css";
 
@@ -47,9 +47,9 @@ export default function About(){
           <English />
         </a>
 
-        <div className="bento-box bento-10">
-          <img src="./coding.gif" alt="" />
-        </div>
+        <a href="CV-Bruno.pdf" download={"CV-BrunoSosa"} className="bento-box bento-10 bento-link">
+          <CV />
+        </a>
 
         <div className="bento-box bento-11 bento-link">
           <Contact />
