@@ -1,13 +1,15 @@
 import React from "react";
 import JsonProyects from "./projects-info.json"
+import { useTranslation } from "react-i18next";
 import "./styles.css";
 
 export default function ProjectBox(){
-
+  const { t, i18n } = useTranslation();
+  const language = localStorage.getItem("language");
 
   return(
     <>
-      {JsonProyects.map((project) => (
+      {JsonProyects[language].map((project) => (
         <div key={project.id} className="project-box">
           <img src={project["Project-cover"]} alt={project["Project-name"]} className="project-cover"/>
 
@@ -19,8 +21,8 @@ export default function ProjectBox(){
               ))}
             </div>
             <p className="project-description">{project["Project-description"]}</p>
-            {project["Project-repository"] && <a href={project["Project-repository"]}>Repository</a>}
-            {project["Project-link"] && <a href={project["Project-link"]}>Page</a>}
+            {project["Project-repository"] && <a href={project["Project-repository"]}>{t("Repository")}</a>}
+            {project["Project-link"] && <a href={project["Project-link"]}>{t("Page")}</a>}
           </div>
         </div>
       ))}
