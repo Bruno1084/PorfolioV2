@@ -35,7 +35,7 @@ export default function About(){
           <Introduction />
         </div>
 
-        <a href="https://www.linkedin.com/in/bruno-sosa-ba2124243/" target="_blank" className="bento-box bento-7 bento-link">
+        <a href="https://www.linkedin.com/in/brunos0sa" target="_blank" className="bento-box bento-7 bento-link">
           <LinkedIn />
         </a>
 
@@ -47,7 +47,7 @@ export default function About(){
           <English />
         </a>
 
-        <a href="CV-Bruno.pdf" download={"CV-BrunoSosa"} className="bento-box bento-10 bento-link">
+        <a href="CV_BrunoSosa.pdf" download={"CV_BrunoSosa.pdf"} className="bento-box bento-10 bento-link">
           <CV />
         </a>
 
