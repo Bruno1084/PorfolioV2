@@ -2,6 +2,15 @@
   "en":[
     {
       "id": 1,
+      "Project-name": "NC Wings",
+      "Project-link": "",
+      "Project-repository": "https://github.com/No-Country/c17-37-m-java",
+      "Project-cover": "./project-covers/NCWings-Cover.png",
+      "Project-description": "NoCountry Wings is an online platform for booking and purchasing airline tickets. This is a group project in which I participated as a frontend developer and UI/UX designer.",
+      "Project-technologies": ["React", "Material IU", "Vite", "Java", "Spring"]
+    },
+    {
+      "id": 2,
       "Project-name": "El Buho Web",
       "Project-link": "https://bruno1084.github.io/El-Buho-Web.github.io/index.html",
       "Project-repository": "https://github.com/Bruno1084/El-Buho-Web.github.io",
@@ -10,7 +19,7 @@
       "Project-technologies": ["Bootstrap"]
     },
     {
-      "id": 2,
+      "id": 3,
       "Project-name": "Stock Management App",
       "Project-link": "",
       "Project-repository": "https://github.com/Bruno1084/JavaDesktop",
@@ -19,7 +28,7 @@
       "Project-technologies": ["Java", "JavaFX", "SQL"]
     },
     {
-      "id": 3,
+      "id": 4,
       "Project-name": "Platzi Travel",
       "Project-link": "",
       "Project-repository": "https://github.com/Bruno1084/PlatziTravel.github.io",
@@ -28,7 +37,7 @@
       "Project-technologies": ["Tailwindcss"]
     },
     {
-      "id": 4,
+      "id": 5,
       "Project-name": "DungeonJs",
       "Project-link": "",
       "Project-repository": "https://github.com/Bruno1084/DungeonJsTest",
@@ -41,6 +50,15 @@
   "es":[
     {
       "id": 1,
+      "Project-name": "NC Wings",
+      "Project-link": "",
+      "Project-repository": "https://github.com/No-Country/c17-37-m-java",
+      "Project-cover": "./project-covers/NCWings-Cover.png",
+      "Project-description": "NoCountry Wings es una plataforma online para reserva y compra de pasajes de avión. Este es un proyecto grupal en el que participé como desarrollador frontend y diseñador UI/UX",
+      "Project-technologies": ["React", "Material IU", "Vite", "Java", "Spring"]
+    },
+    {
+      "id": 2,
       "Project-name": "El Buho Web",
       "Project-link": "https://bruno1084.github.io/El-Buho-Web.github.io/index.html",
       "Project-repository": "https://github.com/Bruno1084/El-Buho-Web.github.io",
@@ -49,7 +67,7 @@
       "Project-technologies": ["Bootstrap"]
     },
     {
-      "id": 2,
+      "id": 3,
       "Project-name": "App de Manejo de Stock",
       "Project-link": "",
       "Project-repository": "https://github.com/Bruno1084/JavaDesktop",
@@ -58,7 +76,7 @@
       "Project-technologies": ["Java", "JavaFX", "SQL"]
     },
     {
-      "id": 3,
+      "id": 4,
       "Project-name": "Platzi Travel",
       "Project-link": "",
       "Project-repository": "https://github.com/Bruno1084/PlatziTravel.github.io",
@@ -67,7 +85,7 @@
       "Project-technologies": ["Tailwindcss"]
     },
     {
-      "id": 4,
+      "id": 5,
       "Project-name": "DungeonJs",
       "Project-link": "",
       "Project-repository": "https://github.com/Bruno1084/DungeonJsTest",
