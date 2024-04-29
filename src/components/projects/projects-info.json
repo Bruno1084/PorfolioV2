@@ -30,11 +30,11 @@
     {
       "id": 4,
       "Project-name": "Platzi Travel",
-      "Project-link": "",
-      "Project-repository": "https://github.com/Bruno1084/PlatziTravel.github.io",
+      "Project-link": "https://platzi-travel-1rwdqpf7b-bruno1084s-projects.vercel.app/",
+      "Project-repository": "https://github.com/Bruno1084/PlatziTravel",
       "Project-cover": "./project-covers/PlatziTravel-Cover.png",
       "Project-description": "Static page to practice tailwindcss from the course 'Tailwindcss 2 and 3' from Platzi. I make this replica without looking the original code, plus I added somethings on script side.",
-      "Project-technologies": ["Tailwindcss"]
+      "Project-technologies": ["Tailwindcss", "React"]
     },
     {
       "id": 5,
